@@ -1,4 +1,4 @@
-package dsp
+package main
 
 import (
 	"encoding/csv"
